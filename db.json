@@ -1,0 +1,32 @@
+{
+    "user": [
+      {
+        "id": "Admin",
+        "name": "Admin",
+        "password": "Admin",
+        "role": "admin"
+      },
+      {
+        "id": "Ana",
+        "name": "User One",
+        "password": "Ana",
+        "role": "user"
+      },
+      {
+        "id": "Max",
+        "name": "User Two",
+        "password": "Max",
+        "role": "user"
+      }
+    ],
+    "roleaccess":[
+      {
+        "role": "admin",
+        "menu": "admin"
+      },
+      {
+        "role": "user",
+        "menu": "user"
+      }
+    ]
+  }
